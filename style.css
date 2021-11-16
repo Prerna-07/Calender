@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .Year{
+
+    display: flex;
+    justify-content: center;
+  }
+  .YearC
+  {
+    display: flex;
+    justify-content: space-evenly;
+  
+
+  }
+  .Month{
+
+    display: flex;
+    justify-content: center;
+  }
+  .MonthC
+  {
+    display: flex;
+    justify-content: space-evenly;
+  
+
+  }
+  .Day{
+
+    display: flex;
+    justify-content: center;
+  }
+  .DayC
+  {
+    display: flex;
+    justify-content: space-evenly;
+  
+
+  }
